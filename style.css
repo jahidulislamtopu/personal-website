@@ -1,0 +1,176 @@
+body{
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.navbar{
+
+    float: right;
+    list-style: none;
+
+
+}
+.navbar li{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 0px;
+    
+}
+.t-button{
+    text-decoration: none;
+}
+h1{
+    font-size: 70px;
+    height: 30px;
+    font-weight: 500;
+    
+    
+}
+.font{
+    color:coral;
+  
+}
+p{
+    font-family:sans-serif;
+    padding-bottom: 10px;
+    
+}
+
+.select-width{
+    width: 30%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 6%;
+    margin-top: 0px;
+
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    background-repeat: no-repeat;
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: white;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 15px;
+    
+    
+}
+.resize-position{
+    padding-top: 100px;
+    background-color: honeydew;
+    margin-top: 20px;
+    padding-bottom: 200px;
+}
+#position{
+   text-align: center;
+   padding-bottom: 50px;
+   font-weight: 400;
+}
+.select-width img{
+    width: 100%;
+}
+h2{
+    font-size: 48px;
+
+}
+.image-position{
+    text-align: center;
+}
+
+.image-position img{
+    width: 100%;
+    
+  
+}
+.img-with-text{
+    box-shadow: 10px 10px 40px rgb(175, 175, 175);
+    border-radius: 10px;
+    height: 70%;
+    width: 25%;
+    display: inline-block;
+    background-color: white;
+    margin-left: 2%;
+
+}
+
+.box-area{
+    box-shadow: 10px 10px 80px rgb(179, 160, 160);
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.text-fixed{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+  }
+    
+    
+
+.fixed-btn{
+   
+    padding-bottom: 10px;
+    margin-left: 600px;
+    position: absolute; 
+    top: 40%;
+    right: 30%;
+    font-family: sans-serif;
+
+}
+
+
+button{
+    background-color: coral;
+    padding: 20px 40px 20px 40px;
+    border-radius: 10px;
+
+}
+.btn-fixed{
+    position: absolute;
+    top: 38%;
+    right: 30%;
+}
+#button{
+    background-color: coral;
+    margin-left: 1000px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px; 
+    
+}
+.text{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#position{
+    font-family: sans-serif;
+    font-size: 40px;
+
+}
+#color{
+    color: rgba(81, 238, 238, 0.589);
+    font-size: 25px;
+    margin-top: 40px;
+}
+#social-icon{
+    margin-left: 2%;
+    border-radius: 20px;
+    font-size: 40px;
+    height: 50px;
+
+}
+footer p{
+    text-align: center;
+}
